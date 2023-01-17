@@ -4,7 +4,7 @@
 "java_package_name": "com.allan.aws.lambda.functions",
 "java_class_name": "MyAwsLambdaClassName",
 "java_handler_method_name": "handleRequest",
-"maven_group_id": "en.simplex-software.aws.lambda",
+"maven_group_id": "scripty.codes.aws.lambda",
 "maven_artifact_id": "my-aws-function",
 "maven_version": "1.0.0-SNAPSHOT",
 "function_name": "AwsLambdaTestFunction",
