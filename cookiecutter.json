@@ -1,6 +1,6 @@
 {
 "project_name": "my-project-name",
-"aws_lambda_resource_name": "my-aws-lambda-resource-name",
+"aws_lambda_resource_name": "my_aws_lambda_resource_name",
 "java_package_name": "com.allan.aws.lambda.functions",
 "java_class_name": "MyAwsLambdaClassName",
 "java_handler_method_name": "handleRequest",
